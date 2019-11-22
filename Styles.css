@@ -1,0 +1,20 @@
+body{
+
+	background-color: #030101;
+  color : yellow;
+}
+h1{
+  font-size: 50px;
+  color : yellow;
+}
+
+a:link {
+  color: yellow;
+}
+a:visited {
+  color: limegreen;
+}
+
+a:hover{
+  color: lightblue
+}
